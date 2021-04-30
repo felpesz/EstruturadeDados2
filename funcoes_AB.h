@@ -90,4 +90,4 @@ void imprime (arv* a)
 	imprime (a->dir);
 	}
 }
-//Criado por Henrique Mei - 826213
+//Criado por Felipe Otávio - 829816
